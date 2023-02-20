@@ -27,7 +27,7 @@
            <h4>O que são Clients</h4>
            <p>Apresenta-se aqui a definição de Clients no Linguajar Web e logo em seguida aborda sobre os navegadores, os chamados browsers.
             <p>Após isso o professor discorre acerca das <mark>aplicações web</mark>, conceituando como:</p>
-             <blockquote>"Aplicações Web são soluções criadas que possuem a internet como meio de comunicação entre Client e Server não sendo necessária sua instalação."</blockquote>
+             <blockquote><i>"Aplicações Web são soluções criadas que possuem a internet como meio de comunicação entre Client e Server não sendo necessária sua instalação."</i></blockquote>
             <h4>O que são Servers</h4>
             <p>Nesta etapa há a definição de servidores, seus tipos e funcionalidades. Abordando por fim sobre a hospedagem de sites, necessária para a publicação dos dados na internet.</p>          
             <h4>Linguagem de Programação</h4>
